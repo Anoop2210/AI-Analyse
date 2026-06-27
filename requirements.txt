@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+pandas
+openpyxl
+python-multipart
+anthropic
+python-dotenv
+sqlalchemy
+python-jose[cryptography]
+passlib[bcrypt]
+google-generativeai
+razorpay
