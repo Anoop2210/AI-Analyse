@@ -10,3 +10,4 @@ python-jose[cryptography]
 passlib[bcrypt]
 google-generativeai
 razorpay
+psycopg2-binary
